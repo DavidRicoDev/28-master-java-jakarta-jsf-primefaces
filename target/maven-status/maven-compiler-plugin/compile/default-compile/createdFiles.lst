@@ -1,0 +1,12 @@
+es\davidrico\jakarta\jsf\primefaces\controladores\ProductoController.class
+es\davidrico\jakarta\jsf\primefaces\entities\Producto.class
+es\davidrico\jakarta\jsf\primefaces\ProducerResources.class
+es\davidrico\jakarta\jsf\primefaces\repositorios\CategoriaRepositoryImpl.class
+es\davidrico\jakarta\jsf\primefaces\repositorios\CrudRepository.class
+es\davidrico\jakarta\jsf\primefaces\conversores\CategoriaConverter.class
+es\davidrico\jakarta\jsf\primefaces\servicios\ProductoService.class
+es\davidrico\jakarta\jsf\primefaces\entities\Categoria.class
+es\davidrico\jakarta\jsf\primefaces\servicios\ProductoServiceImpl.class
+es\davidrico\jakarta\jsf\primefaces\controladores\LenguajeController.class
+es\davidrico\jakarta\jsf\primefaces\repositorios\ProductoRepositoryImpl.class
+es\davidrico\jakarta\jsf\primefaces\ProducerEntityManager.class
